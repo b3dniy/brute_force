@@ -25,8 +25,8 @@ This project is a Python-based password cracking tool designed to brute-force pa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password-cracker.git
-cd password-cracker
+git clone https://github.com/b3dniy/brute_force
+cd brute_force
 ```
 
 2. Install any required dependencies (if applicable):
