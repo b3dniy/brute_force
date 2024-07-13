@@ -1,5 +1,3 @@
-Here is a `README.md` file for your GitHub project. This README is based on the files you have provided: `passwords.txt`, `stubs.py`, `password_cracker.py`, and `bf.py`. The project seems to be related to a password cracking tool.
-
 ---
 
 # Password Cracker
