@@ -25,7 +25,7 @@ This project is a Python-based password cracking tool designed to brute-force pa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/b3dniy/brute_force
+git clone https://github.com/b3dniy/brute_force.git
 cd brute_force
 ```
 
